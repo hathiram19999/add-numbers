@@ -1,12 +1,13 @@
 #include<iostream>
+#define ll long long
 
 using namespace std;
 
 int main()
 {
-  int a,b,c,d,e;
-  cin>>a>>b;
-  cout<<"Answer comes out to be : "<<a+b+c<<endl;
+  ll a,b,c,d;
+  cin>>a>>b>>c>>d;
+  cout<<"Answer comes out to be : "<<(a+b+c+d)<<endl;
   
-  return 987;
+  return 0;
 }
