@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-  ll a,b,c,d;
-  cin>>a>>b>>c>>d;
-  cout<<"Answer comes out to be : "<<(a+b+c+d)<<endl;
+  ll a,b,c,d,e,f;
+  cin>>a>>b>>c>>d>>e>>f;
+  cout<<"Answer should be : "<<(a+b+c+d+e)<<endl;
   
-  return 0;
+  return 98765;
 }
